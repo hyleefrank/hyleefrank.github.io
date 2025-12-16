@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default_light"
+site_theme               : "default"
 title                    : "Ho-yeung Lee (Frank) 李浩洋"
 title_separator          : "-"
 name                     : &name "Ho-yeung Lee (Frank)"
