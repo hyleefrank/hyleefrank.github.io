@@ -59,9 +59,6 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
+  font-size: 0.9em;
+  color: gray;
 }
