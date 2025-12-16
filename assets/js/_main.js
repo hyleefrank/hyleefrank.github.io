@@ -16,11 +16,11 @@ let determineComputedTheme = () => {
   if (themeSetting != "system") {
     return themeSetting;
   }
-  return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+  return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "light" : "light";
 };
 
 // detect OS/browser preference
-const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'light' : 'light';
 
 // Set the theme on page load or when explicitly called
 let setTheme = (theme) => {
@@ -31,7 +31,7 @@ let setTheme = (theme) => {
     browserPref;
 
   if (use_theme === "dark") {
-    $("html").attr("data-theme", "dark");
+    $("html").attr("data-theme", "light");
     $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
   } else if (use_theme === "light") {
     $("html").removeAttr("data-theme");
@@ -42,7 +42,7 @@ let setTheme = (theme) => {
 // Toggle the theme manually
 var toggleTheme = () => {
   const current_theme = $("html").attr("data-theme");
-  const new_theme = current_theme === "dark" ? "light" : "dark";
+  const new_theme = current_theme === "dark" ? "light" : "light";
   localStorage.setItem("theme", new_theme);
   setTheme(new_theme);
 };
@@ -95,7 +95,7 @@ $(document).ready(function () {
   window.matchMedia('(prefers-color-scheme: dark)')
         .addEventListener("change", (e) => {
           if (!localStorage.getItem("theme")) {
-            setTheme(e.matches ? "dark" : "light");
+            setTheme(e.matches ? "light" : "light");
           }
         });
 
