@@ -18,7 +18,7 @@ I'm from Hong Kong.
 <summary><h4 style="color:darkblue;" class="hover-underline-animation">For the Sake of Simplicity</h4></summary>
 <p style="color:gray; margin-left:20px; margin-top:10px;"><small>This article explores a neglected aspect of the doctrine of divine simplicity (DDS). Traditionally, DDS holds that God’s attributes, such as omnipotence and omniscience, are identical to each other and to God’s existence. While most existing literature explores the implication of DDS on other divine attributes, this article offers a systematic reflection on the property of being simple under the framework of divine simplicity. Addressing the ontological nature of simplicity itself raises novel and significant questions about the nature of God and the coherence of DDS. Through an examination of the property of being simple with respect to various ontological frameworks, particularly two versions of bundle theory, this article reveals that the attribute of being simple possesses a distinct ontological status, differing fundamentally from other divine attributes.</small></p>
 </details>
-Accepted at <i>Philosophical Quarterly</i>
+Accepted at <i>The Philosophical Quarterly</i>
 
 <details>
 <summary><h4 style="color:darkblue;" class="hover-underline-animation">Sceptical Theism, Divine Commands, and Love</h4></summary>
