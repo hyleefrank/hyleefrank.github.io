@@ -12,8 +12,8 @@ redirect_from:
 Rutgers Analytic Theology Symposium<br>
 Rutgers University; June 2026
 
-<strong>Genealogical Anxiety, Ethical Judgments, and the <i>Zhuangzi</i></strong><br>
-Ethics in Chinese Philosophy Conference [Upcoming]<br>
+<strong>Genealogical Anxiety, Ethical Judgments, and the <i>Zhuangzi</i></strong> [Upcoming]<br>
+Ethics in Chinese Philosophy Conference<br>
 Hong Kong University of Science and Technology; March 2026
 
 <strong>Essence Apophaticism</strong><br>
