@@ -14,17 +14,12 @@ I'm from Hong Kong.
 
 <h3>Papers</h3>
 
-<details>
-<summary><h4 style="color:darkblue;" class="hover-underline-animation">For the Sake of Simplicity</h4></summary>
-<p style="color:gray; margin-left:20px; margin-top:10px;"><small>This article explores a neglected aspect of the doctrine of divine simplicity (DDS). Traditionally, DDS holds that God’s attributes, such as omnipotence and omniscience, are identical to each other and to God’s existence. While most existing literature explores the implication of DDS on other divine attributes, this article offers a systematic reflection on the property of being simple under the framework of divine simplicity. Addressing the ontological nature of simplicity itself raises novel and significant questions about the nature of God and the coherence of DDS. Through an examination of the property of being simple with respect to various ontological frameworks, particularly two versions of bundle theory, this article reveals that the attribute of being simple possesses a distinct ontological status, differing fundamentally from other divine attributes.</small></p>
-</details>
+<h4 style="color:darkblue;">For the Sake of Simplicity</h4>
 <i>The Philosophical Quarterly</i> (forthcoming)
 <a href="https://doi.org/10.1093/pq/pqaf108" style="text-decoration:none" class="hover-underline-animation">Published</a>&ensp;<i class="ai ai-open-access"></i>
 
-<details>
-<summary><h4 style="color:darkblue;" class="hover-underline-animation">Sceptical Theism, Divine Commands, and Love</h4></summary>
-<p style="color:gray; margin-left:20px; margin-top:10px;"><small>Sceptical theists respond to the problem of evil by arguing that we should be sceptical of our abilities to understand God's plan and the justifying reasons for his actions. A major difficulty faced by sceptical theism is the problem of moral paralysis. Some sceptical theists have proposed a divine command response: theists can appeal to God's commands in acting, and this circumvents the need to exercise value judgement in moral deliberations. This article provides an objection to the divine command response by arguing that it renders love impossible and practically undermines the possibility of the theistic way of life. As a result, this article demonstrates a constraint on any potential solution to the problem of moral paralysis in sceptical theism: the access to values of loving relationship and human well-being, as well as their role to play in agents’ deliberative process, should be safeguarded.</small></p>
-</details>
+
+<h4 style="color:darkblue;">Sceptical Theism, Divine Commands, and Love</h4>
 <i>Religious Studies</i> (2025)
 <a href="https://www.cambridge.org/core/journals/religious-studies/article/sceptical-theism-divine-commands-and-love/64878E06A8E6D0E83EB39B043E212409" style="text-decoration:none" class="hover-underline-animation">Published</a>&ensp;<i class="ai ai-open-access"></i>
 
