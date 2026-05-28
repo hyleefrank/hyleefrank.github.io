@@ -15,7 +15,8 @@ I'm from Hong Kong.
 <h3>Papers</h3>
 
 <h4 style="color:darkblue;">Continuity Theories Reimagined</h4>
-<i>Synthese</i> (Forthcoming)
+<i>Synthese</i> (2026)
+<a href="https://doi.org/10.1007/s11229-026-05631-9" style="text-decoration:none" class="hover-underline-animation">Published</a>&ensp;<i class="ai ai-open-access"></i>
 
 <h4 style="color:darkblue;">For the Sake of Simplicity</h4>
 <i>The Philosophical Quarterly</i> (2026)
