@@ -15,7 +15,7 @@ I'm from Hong Kong.
 <h3>Papers</h3>
 
 <h4 style="color:darkblue;">Zhu Xi and Axiarchism</h4>
-with <a href="https://philpeople.org/profiles/pak-lin-leung" style="text-decoration:none" class="hover-underline-animation">Pak-lin Leung</a>
+with <a href="https://philpeople.org/profiles/pak-lin-leung" style="text-decoration:none" class="hover-underline-animation">Pak-lin Leung</a><br>
 <i>Ergo</i> (Accepted)
 <a href="https://philpapers.org/archive/LEEZXA-3.pdf" style="text-decoration:none" class="hover-underline-animation">Pre-print</a>
 
