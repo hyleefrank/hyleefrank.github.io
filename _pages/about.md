@@ -14,8 +14,10 @@ I'm from Hong Kong.
 
 <h3>Papers</h3>
 
-<h4 style="color:darkblue;">Zhu Xi and Axiarchism (with <a href="https://philpeople.org/profiles/pak-lin-leung" style="text-decoration:none" class="hover-underline-animation">Pak-lin Leung</a>)</h4>
+<h4 style="color:darkblue;">Zhu Xi and Axiarchism</h4>
+with <a href="https://philpeople.org/profiles/pak-lin-leung" style="text-decoration:none" class="hover-underline-animation">Pak-lin Leung</a>
 <i>Ergo</i> (Accepted)
+<a href="https://philpapers.org/archive/LEEZXA-3.pdf" style="text-decoration:none" class="hover-underline-animation">Pre-print</a>
 
 <h4 style="color:darkblue;">Continuity Theories Reimagined</h4>
 <i>Synthese</i> (2026)
